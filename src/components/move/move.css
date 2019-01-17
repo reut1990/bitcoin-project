@@ -1,0 +1,11 @@
+
+.move-preview{
+ padding: 10px  25px;
+ list-style: none;
+}
+
+.move-preview p{
+    margin: 2px;
+    text-align: left;
+    margin-left: -20px
+}

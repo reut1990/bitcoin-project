@@ -1,0 +1,35 @@
+.sign-up-container{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+
+.sign-up-container img{
+    
+    height: 200px;
+    width: 200px;
+    margin: 50px auto 20px auto;
+}
+
+.sign-up-input{
+    padding: 4px;
+    margin:10px  auto;
+    width: 300px;
+}
+
+.sign-up-container button{
+    width: fit-content;
+    padding: 5px 10px;
+    margin: auto;
+    background-color: orange;
+    border: 2px inset cornsilk;
+    border-radius: 125px;
+    font-family: ZCOOL XiaoWei;
+    font-size: 18px;
+
+}

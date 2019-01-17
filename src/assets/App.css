@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  font-family: ZCOOL XiaoWei;
+  color: white; 
+
+}
+
+button{
+  cursor: pointer;
+}
+
+body{
+  background-image: url("https://i.pinimg.com/736x/9c/43/fe/9c43fe86ddb72f4ef396427637aadc54--solid-background-wallpaper-iphone--wallpaper.jpg");
+  background-position: center;
+  background-size: cover;
+}
+
+  /* font-size: calc(10px + 2vmin); */
+

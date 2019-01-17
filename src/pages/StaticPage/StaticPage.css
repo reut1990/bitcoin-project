@@ -1,0 +1,32 @@
+
+.static-container{
+    font-family: ZCOOL XiaoWei;
+    color: white;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.static-container h4{
+    font-size: 40px;
+    margin: 30px;
+}
+.chart{
+    width: 80%;
+    margin: 50px auto;
+}
+
+.chart-subtitle{
+  font-size: 20px;
+  padding: 0 30px;
+  text-decoration: underline;
+}
+
+.chart-description{
+    padding: 0 30px;
+    text-align: left;
+}
+@media (min-width: 420px) {
+.chart-description{
+    text-align: center;
+}
+}
